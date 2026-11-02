@@ -1,4 +1,4 @@
-# HallucinationGuard# HallucinationGuard
+# HallucinationGuard
 ### Building an Evidence-Grounded AI Claim Verification System
 
 **From Hybrid Information Retrieval to Adaptive Verification and Claim-Conditioned Evidence Selection**
