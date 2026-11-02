@@ -1,0 +1,125 @@
+{
+  "dataset": "SciFact development set",
+  "total_claims": 300,
+  "experiment": "Same adaptive retrieval; original document text versus claim-conditioned sentence windows.",
+  "baseline": {
+    "classification": {
+      "accuracy": 0.38,
+      "macro_precision": 0.47077629972366813,
+      "macro_recall": 0.3824884792626728,
+      "macro_f1": 0.3033142696690488,
+      "classification_report": {
+        "SUPPORTED": {
+          "precision": 0.7142857142857143,
+          "recall": 0.04032258064516129,
+          "f1-score": 0.07633587786259542,
+          "support": 124.0
+        },
+        "CONTRADICTED": {
+          "precision": 0.3076923076923077,
+          "recall": 0.3125,
+          "f1-score": 0.31007751937984496,
+          "support": 64.0
+        },
+        "INSUFFICIENT": {
+          "precision": 0.39035087719298245,
+          "recall": 0.7946428571428571,
+          "f1-score": 0.5235294117647059,
+          "support": 112.0
+        },
+        "accuracy": 0.38,
+        "macro avg": {
+          "precision": 0.47077629972366813,
+          "recall": 0.3824884792626728,
+          "f1-score": 0.3033142696690488,
+          "support": 300.0
+        },
+        "weighted avg": {
+          "precision": 0.5066101150311676,
+          "recall": 0.38,
+          "f1-score": 0.29315301404306326,
+          "support": 300.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          5,
+          23,
+          96
+        ],
+        [
+          1,
+          20,
+          43
+        ],
+        [
+          1,
+          22,
+          89
+        ]
+      ]
+    },
+    "nli_evaluations": 900
+  },
+  "ccew": {
+    "classification": {
+      "accuracy": 0.44,
+      "macro_precision": 0.5317911488454125,
+      "macro_recall": 0.45852534562211983,
+      "macro_f1": 0.4088948347665376,
+      "classification_report": {
+        "SUPPORTED": {
+          "precision": 0.8,
+          "recall": 0.16129032258064516,
+          "f1-score": 0.2684563758389262,
+          "support": 124.0
+        },
+        "CONTRADICTED": {
+          "precision": 0.37209302325581395,
+          "recall": 0.5,
+          "f1-score": 0.4266666666666667,
+          "support": 64.0
+        },
+        "INSUFFICIENT": {
+          "precision": 0.42328042328042326,
+          "recall": 0.7142857142857143,
+          "f1-score": 0.53156146179402,
+          "support": 112.0
+        },
+        "accuracy": 0.44,
+        "macro avg": {
+          "precision": 0.5317911488454125,
+          "recall": 0.45852534562211983,
+          "f1-score": 0.4088948347665376,
+          "support": 300.0
+        },
+        "weighted avg": {
+          "precision": 0.5680712029859317,
+          "recall": 0.44,
+          "f1-score": 0.4004338033054125,
+          "support": 300.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          20,
+          24,
+          80
+        ],
+        [
+          3,
+          32,
+          29
+        ],
+        [
+          2,
+          30,
+          80
+        ]
+      ]
+    },
+    "nli_evaluations": 900,
+    "window_size": 2
+  },
+  "runtime_seconds": 1952.3016061999951
+}

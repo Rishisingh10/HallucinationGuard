@@ -1,0 +1,3002 @@
+[
+  {
+    "claim_id": 1,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 3,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 5,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 13,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 36,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 42,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 48,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 49,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 50,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 51,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 53,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "SUPPORTED",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 54,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 56,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 57,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 70,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 72,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 75,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 94,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 99,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 100,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 113,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 115,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 118,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 124,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 127,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 128,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 129,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 130,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 132,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 133,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 137,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 141,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 142,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 143,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 146,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 148,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 163,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 171,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 179,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 180,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 183,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "SUPPORTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 185,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 198,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 208,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 212,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 213,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 216,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 217,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 218,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 219,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 230,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 232,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 233,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 236,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 237,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 238,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 239,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 248,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 249,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 261,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 268,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 269,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 274,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 275,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 279,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 294,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 295,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 298,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 300,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 303,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 312,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 314,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 324,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 327,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "SUPPORTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 338,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 343,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 350,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 354,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 362,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 380,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 384,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 385,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 386,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 388,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 399,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 410,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 411,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 415,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 421,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 431,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 436,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 437,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 439,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 440,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 443,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "SUPPORTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 452,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 475,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 478,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 491,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 501,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 502,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 507,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 508,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 513,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 514,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 516,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 517,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 521,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 525,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 527,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 528,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 532,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 533,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 535,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 536,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 539,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 540,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 544,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 549,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 551,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 552,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 554,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 560,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 569,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 575,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 577,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 578,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 587,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 589,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 593,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 597,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 598,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 613,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 619,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 623,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 628,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 636,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 637,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 641,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 644,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 649,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 659,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 660,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 674,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 684,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 690,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 691,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 692,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 693,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 700,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 702,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 715,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 716,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 718,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 721,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 723,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "SUPPORTED",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 727,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 728,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 729,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 742,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 743,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 744,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 756,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 759,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 768,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 770,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 775,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 781,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 783,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 784,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 785,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 793,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 800,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 805,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 808,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 811,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 814,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 820,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 821,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 823,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 830,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 831,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 832,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 834,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 837,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 839,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "SUPPORTED",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 845,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 847,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 852,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 859,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 870,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 873,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 879,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 880,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 882,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 887,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 903,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 904,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 907,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "SUPPORTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 911,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 913,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 914,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 921,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 922,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 936,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 956,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 957,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 960,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 967,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 971,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 975,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 982,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 985,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 993,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1012,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1014,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1019,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1020,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1021,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1024,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1029,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1041,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1049,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1062,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1086,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1088,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1089,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1099,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1100,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1104,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1107,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1110,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1121,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1130,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1132,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1137,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1140,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1144,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1146,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1150,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1163,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1175,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1179,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1180,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1185,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1187,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1191,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1194,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1196,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1197,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1199,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1200,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1202,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1204,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1207,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1213,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1216,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1221,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1225,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1226,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1232,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1241,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1245,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1259,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1262,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1266,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1270,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1271,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1272,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1273,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "SUPPORTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1274,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1278,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1279,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1280,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1281,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1282,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1290,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1292,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1298,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1303,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1316,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1319,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1320,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1332,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1335,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1336,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1337,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1339,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1344,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1352,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1359,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1362,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1363,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1368,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1370,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1379,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1382,
+    "gold_label": "CONTRADICTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1385,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1389,
+    "gold_label": "SUPPORTED",
+    "baseline_prediction": "CONTRADICTED",
+    "ccew_prediction": "CONTRADICTED",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  },
+  {
+    "claim_id": 1395,
+    "gold_label": "INSUFFICIENT",
+    "baseline_prediction": "INSUFFICIENT",
+    "ccew_prediction": "INSUFFICIENT",
+    "retrieved_passages": 3,
+    "selected_passages": 3,
+    "baseline_nli_evaluations": 3,
+    "ccew_nli_evaluations": 3
+  }
+]

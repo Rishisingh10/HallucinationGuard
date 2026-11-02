@@ -1,0 +1,117 @@
+{
+  "dataset": "SciFact validation",
+  "total_claims": 300,
+  "labels": {
+    "INSUFFICIENT": 112,
+    "SUPPORTED": 124,
+    "CONTRADICTED": 64
+  },
+  "baseline_bm25_nli": {
+    "classification": {
+      "accuracy": 0.39,
+      "macro_precision": 0.5195767195767195,
+      "macro_recall": 0.38889688940092165,
+      "macro_f1": 0.30960911592224805,
+      "classification_report": "              precision    recall  f1-score   support\n\n   SUPPORTED       0.86      0.05      0.09       124\nCONTRADICTED       0.30      0.30      0.30        64\nINSUFFICIENT       0.40      0.82      0.54       112\n\n    accuracy                           0.39       300\n   macro avg       0.52      0.39      0.31       300\nweighted avg       0.57      0.39      0.30       300\n",
+      "confusion_matrix": [
+        [
+          6,
+          25,
+          93
+        ],
+        [
+          0,
+          19,
+          45
+        ],
+        [
+          1,
+          19,
+          92
+        ]
+      ]
+    },
+    "retrieval": {
+      "evidence_recall": 0.722488038277512,
+      "evidence_hit_rate": 0.7872340425531915,
+      "relevant_documents": 209,
+      "retrieved_relevant_documents": 151,
+      "claims_with_annotated_evidence": 188,
+      "claims_with_evidence_hit": 148
+    },
+    "runtime_seconds": 376.6896439999982,
+    "nli_evaluations": 900
+  },
+  "full_hallucination_guard": {
+    "classification": {
+      "accuracy": 0.38,
+      "macro_precision": 0.47077629972366813,
+      "macro_recall": 0.3824884792626728,
+      "macro_f1": 0.3033142696690488,
+      "classification_report": "              precision    recall  f1-score   support\n\n   SUPPORTED       0.71      0.04      0.08       124\nCONTRADICTED       0.31      0.31      0.31        64\nINSUFFICIENT       0.39      0.79      0.52       112\n\n    accuracy                           0.38       300\n   macro avg       0.47      0.38      0.30       300\nweighted avg       0.51      0.38      0.29       300\n",
+      "confusion_matrix": [
+        [
+          5,
+          23,
+          96
+        ],
+        [
+          1,
+          20,
+          43
+        ],
+        [
+          1,
+          22,
+          89
+        ]
+      ]
+    },
+    "retrieval": {
+      "evidence_recall": 0.6889952153110048,
+      "evidence_hit_rate": 0.7446808510638298,
+      "relevant_documents": 209,
+      "retrieved_relevant_documents": 144,
+      "claims_with_annotated_evidence": 188,
+      "claims_with_evidence_hit": 140
+    },
+    "runtime_seconds": 1139.6256001000002,
+    "nli_evaluations": 900,
+    "retrieval_rounds": 900
+  },
+  "hallucination_guard_with_esg": {
+    "classification": {
+      "accuracy": 0.38,
+      "macro_precision": 0.46413502109704635,
+      "macro_recall": 0.3735599078341014,
+      "macro_f1": 0.291984611309181,
+      "classification_report": "              precision    recall  f1-score   support\n\n   SUPPORTED       0.71      0.04      0.08       124\nCONTRADICTED       0.29      0.25      0.27        64\nINSUFFICIENT       0.39      0.83      0.53       112\n\n    accuracy                           0.38       300\n   macro avg       0.46      0.37      0.29       300\nweighted avg       0.50      0.38      0.29       300\n",
+      "confusion_matrix": [
+        [
+          5,
+          22,
+          97
+        ],
+        [
+          1,
+          16,
+          47
+        ],
+        [
+          1,
+          18,
+          93
+        ]
+      ]
+    },
+    "runtime_seconds": 1426.6916960999952,
+    "additional_nli_evaluations": 900,
+    "abstentions": 237,
+    "abstention_rate": 0.79,
+    "coverage_rate": 0.20999999999999996,
+    "thresholds": {
+      "min_claim_coverage": 0.25,
+      "min_nli_confidence": 0.75
+    }
+  }
+}

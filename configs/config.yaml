@@ -1,0 +1,29 @@
+project:
+  name: HallucinationGuard
+  seed: 42
+
+model:
+  name: Qwen/Qwen3-0.6B
+  device: cpu
+  dtype: float32
+  max_context: 2048
+
+generation:
+  max_new_tokens: 96
+  temperature: 0.7
+  top_p: 0.8
+  top_k: 20
+  num_samples: 3
+
+detection:
+  token_entropy: true
+  semantic_consistency: true
+  gradient_signals: false
+  dropout_signals: false
+
+verification:
+  enabled: false
+  max_evidence_sources: 3
+
+decision:
+  verification_budget: 5

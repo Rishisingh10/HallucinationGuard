@@ -1,0 +1,13 @@
+
+[
+  {
+    "id": "conflict_001",
+    "source": "Historical Source A",
+    "text": "Microsoft was founded by Bill Gates and Paul Allen in 1975."
+  },
+  {
+    "id": "conflict_002",
+    "source": "Historical Source B",
+    "text": "Microsoft was not founded in 1975. It was founded in 1976."
+  }
+]

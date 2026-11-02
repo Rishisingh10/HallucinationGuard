@@ -1,0 +1,9 @@
+transformers>=4.51.0
+accelerate
+sentence-transformers
+numpy
+scipy
+scikit-learn
+pyyaml
+safetensors
+pytest
